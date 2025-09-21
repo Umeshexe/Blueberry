@@ -1,2 +1,2 @@
 # Project Blueberry
-Self-proprieatary Agentic AI at your ease
+Self-proprieatary Agentic AI at your ease!
